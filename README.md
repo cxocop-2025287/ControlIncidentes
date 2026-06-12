@@ -20,4 +20,4 @@ Aplicación monolítica de consola que permite gestionar incidentes.
 5. Compilar con el comando "pnpm build"
 6. Ejecutar con el comando "pnpm start"
 
-![Diagrama](docs/Incidentes diagrama.png)
+![Diagrama](docs/Incidentes-diagrama.png)
