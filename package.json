@@ -1,0 +1,26 @@
+{
+  "name": "controlincidente",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",      
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.29.2",
+  "devDependencies": {
+    "@types/node": "^25.9.2",
+    "@types/prompt-sync": "^4.2.3",
+    "@types/prompts": "^2.4.9",
+    "typescript": "^6.0.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "prompts": "^2.4.2"
+  }
+}
